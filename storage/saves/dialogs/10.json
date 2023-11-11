@@ -1,0 +1,8 @@
+{
+  "npcName" : "General Wamu",
+  "texts" : [
+    "Hum attendez donc vous comptez affronter le Roi Gobelin dans cette petite armure de pacotille ?","Allez donc voir Ziak le forgeron du Bosquet, il vous en proposera une bien meilleure bon marché !"
+  ],
+  "reply" : "En effet, je vais donc y aller avant de m'y rendre !",
+  "nextDialog" : -1
+}

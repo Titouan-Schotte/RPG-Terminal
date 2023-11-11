@@ -1,0 +1,8 @@
+{
+"npcName" : "Roi de Lividus",
+"texts" : [
+"Bien le bonjour ?\nAh ! C’est vous que les gardes ont trouvé inconscient dans le bosquet !"
+],
+"reply" : "Oui, le médecin m’a dit que vous vouliez me voir dès mon réveil.",
+"nextDialog" : 6
+}

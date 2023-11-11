@@ -1,0 +1,8 @@
+{
+  "npcName" : "Dr Mundo",
+  "texts" : [
+    "Oui ? Ah c'est vous. Enfin debout. On n'était pas sûr que vous alliez revenir à vous.","Des soldats en patrouille vous ont trouvé sur une des routes menant à Kaleth.","Comment vous sentez-vous ?"
+  ],
+  "reply" : "Euh, bien ? Je pense.",
+  "nextDialog" : 2
+}

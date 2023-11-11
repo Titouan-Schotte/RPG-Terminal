@@ -1,0 +1,8 @@
+{
+  "npcName" : "Dr Mundo",
+  "texts" : [
+    "Et bien ... d'après un vieux grimoire...","C'est une marque millénaire qui date de l'époque où les dieux dominaient ce monde, ils délivraient cette marque aux soldats les plus talentueux !","Allez donc voir le roi il vous en dira plus !"
+  ],
+  "reply" : "Oh étrange je n'ai aucun souvenirs de cette marque. J'y vais merci à vous !",
+  "nextDialog" : -1
+}

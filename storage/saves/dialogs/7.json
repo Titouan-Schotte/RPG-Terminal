@@ -1,0 +1,8 @@
+{
+"npcName" : "General Wamu",
+"texts" : [
+"Bonjour Soldat.Que faites vous-ici ?\nOn cherche absolument des bras supplémentaires pour éliminer une fois pour toute la vermine !"
+],
+"reply" : "Je suis missioné par le roi d'éliminer la source du problème que puis-donc faire pour cela ?",
+"nextDialog" : 8
+}

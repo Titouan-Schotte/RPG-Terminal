@@ -1,0 +1,8 @@
+{
+  "log": "Vous arrivez dans la Ville |de Lividus, Allez vous     |équiper au centre-ville    |pour être prêt à affronter |des gobelins cendrés qui   |attaquent la ville.        ",
+  "type" : "items",
+  "content" : {"armure-lividus" : 1,"epee-lividus" : 1,"potion-vie" : 5},
+  "dalis" : 0,
+  "lvl" : 2,
+  "items" : {}
+}

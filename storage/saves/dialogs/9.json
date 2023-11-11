@@ -1,0 +1,8 @@
+{
+"npcName" : "General Wamu",
+"texts" : [
+"Non loin de ce bosquet se trouve leur antre dans une grande faille d'où ils proviennent tous !","Il doit sûrement commander ses armées dans l'ombre depuis là bas !"
+],
+"reply" : "Je vois !",
+"nextDialog" : 10
+}

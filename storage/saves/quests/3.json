@@ -1,0 +1,12 @@
+{
+  "log": "Vous devez désormais aller |aider l'armée de la ville  |sur le champs de bataille !",
+  "type" : "kill",
+  "content" : {
+    "gobelin" : 5,
+    "ingenieur" : 2,
+    "ogre" : 1
+  },
+  "dalis" : 70,
+  "lvl" : 3,
+  "items" : {}
+}

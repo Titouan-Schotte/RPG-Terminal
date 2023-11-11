@@ -1,0 +1,8 @@
+{
+  "npcName" : "Dr Mundo",
+  "texts" : [
+    "Vous avez l'air un peu perdu. Vous êtes à l'infirmerie du Château de Lividus."," Vous vous souvenez de quelque chose "
+  ],
+  "reply" : "Je...il me semblait que j'étais en train de discuter avec les dieux il y a 10 secondes...",
+  "nextDialog" : 3
+}

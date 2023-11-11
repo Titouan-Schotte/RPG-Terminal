@@ -1,0 +1,8 @@
+{
+"npcName" : "Roi de Lividus",
+"texts" : [
+"Oui, effectivement. Pendant que vous étiez inconscient, on a reconnu cette marque singulière à votre poignet.","Votre présence risque de nous être utile vu que nous subissons une offensive des gobelins cendrés qui se terrent dans leur antre non loin du champs de bataille.","Allez donc vous équiper au centre ville d'une armure, d'une épée ainsi que de potions de vitalité afin d'aller les affronter.","Si vous les repoussez vous serez couvert d'or !"
+],
+"reply" : "J'ai l'impression de ne m'être jamais battu mais peut être que cela me reviendra par instinct sur le champs de bataille.\nMessire, sur ce, j'y vais de ce pas.",
+"nextDialog" : -1
+}

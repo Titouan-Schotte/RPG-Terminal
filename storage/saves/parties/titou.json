@@ -1,0 +1,28 @@
+{
+    "damages": 30,
+    "dialogsCompleted": [
+        5,
+        6,
+        1,
+        2,
+        3,
+        4
+    ],
+    "health": 150,
+    "inventory": {
+        "armure-cendre": 0,
+        "armure-lividus": 1,
+        "epee-cendre": 0,
+        "epee-lividus": 1,
+        "marteau-siorwel": 0,
+        "potion-vie": 5
+    },
+    "levelIn": 2,
+    "mapIn": "spawn",
+    "maxhealth": 150,
+    "money": 50,
+    "pseudo": "titou",
+    "questIn": 3,
+    "x": 5,
+    "y": 5
+}

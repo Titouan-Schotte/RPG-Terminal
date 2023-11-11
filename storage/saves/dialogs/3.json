@@ -1,0 +1,8 @@
+{
+  "npcName" : "Dr Mundo",
+  "texts" : [
+    "Hm-hm, ça a dû être un gros choc pour que vous vous imaginiez en train de discuter avec les dieux alors que cela fait bien des millénaires qu'il n'y en a plus."," Je note donc : \"Ne se souvient de rien. Semble délirer.\""," J'ai quelques herbes médicinales qui pourront arranger ça.","Le Roi en personne semble s'intéresser à votre cas au vu de cette marque sur votre bras."
+  ],
+  "reply" : "Ah ça ? Qu'est-ce donc ?",
+  "nextDialog" : 4
+}

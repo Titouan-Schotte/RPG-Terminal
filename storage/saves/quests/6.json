@@ -1,0 +1,10 @@
+{
+  "log": "Rendez-vous à la faille    |cendré non loin du bosquet |de Lividus pour débusquer  |et tuer Siorwel !          ",
+  "type" : "kill",
+  "content" : {"siorwel": 1},
+  "dalis" : 2000000,
+  "lvl" : 6,
+  "items" : {
+    "marteau-siorwel" : 1
+  }
+}

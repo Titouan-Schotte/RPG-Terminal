@@ -1,0 +1,13 @@
+{
+  "log": "Equipez vous avant         |d'affronter les ennemis de |l'antre aux gobelins cendré",
+  "type" : "items",
+  "content" :
+    {"armure-cendre" : 1,
+    "epee-cendre" : 1}
+  ,
+  "dalis" : 0,
+  "lvl" : 5,
+  "items" : {
+    "potion-vie" : 5
+  }
+}

@@ -1,0 +1,8 @@
+{
+"npcName" : "General Wamu",
+"texts" : [
+"Oh je vois !\nL'armée de la ville est chargée de défendre Lividus donc ne pouvons pour le moment pas attaquer.","Seul un mercenaire capable de miracles pourra vaincre leur chef ce qui fera cesser l'attaque !Si vous avez été missionné par le roi ça n'est pas pour rien !"
+],
+"reply" : "J'espère bien !\nOù se trouve leur chef ?",
+"nextDialog" : 9
+}
