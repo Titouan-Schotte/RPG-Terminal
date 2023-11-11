@@ -2,6 +2,7 @@
 
 Le projet a été réalisé lors des Ymmersions de l'école Ynov Paris.
 Le but à été de réalisé un mini RPG entièrement dans le terminal de commande.
+
 ![image](https://github.com/Titouan-Schotte/RPG-Terminal/assets/73279480/ac3af00e-9814-43a6-9fd9-fc6789dc5204)
 
 ![image](https://github.com/Titouan-Schotte/RPG-Terminal/assets/73279480/fd939174-899c-40dc-bb7e-5d07df911689)
